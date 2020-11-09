@@ -499,8 +499,9 @@ footer {
 }
 
 .education-block span {
-    color: #74808a;
-    float: right
+    color: #6d6c6c;
+    float: right;
+    margin: 5px 0 0 0;
 }
 
 .education-block h4 {
