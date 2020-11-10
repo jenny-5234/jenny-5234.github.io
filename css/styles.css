@@ -545,14 +545,14 @@ footer {
     float: left;
     width: 300px;
     height: 300px;
-    border-right: 2px dotted #c0c0c0;
+    /* border-right: 2px dotted #c0c0c0; */
 }
 
 .project-infobox{
     width:600px; 
     height: 300px;
     margin-left: 300px;
-    background: #fcf7e670;
+    /* background: #fcf7e670; */
 }
 
 .project-info {
