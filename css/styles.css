@@ -505,10 +505,10 @@ footer {
 }
 
 .education-block h4 {
-    color: #74808a;
+    color: #005cab;
     clear: both;
-    font-weight: 500;
-    margin: 0 0 15px 0
+    font-weight: bold;
+    margin: 0 0 15px 0;
 }
 
 .education-block p, .education-block ul {
