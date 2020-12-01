@@ -92,7 +92,7 @@ header li {
 
 header a {
     display: block;
-    color: #3498db;
+    color: #ffffff;
     font-weight: bold;
     padding: 8px 20px 8px 20px;
 }
@@ -274,6 +274,7 @@ footer {
 
 #lead-content {
     position: absolute;
+    width: 800px;
     z-index: 10;
     top: 50%;
     left: 50%;
@@ -289,16 +290,16 @@ footer {
 #lead-content h1 {
     color: #fff;
     font-weight: 900;
-    font-size: 5em;
+    font-size: 5.5em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 0.9em;
 }
 
 #lead-content h2 {
-    color: #a0cfee;
+    color: #bce1f9;
     font-weight: 500;
-    font-size: 2.25em;
+    font-size: 2.85em;
     margin-bottom: 15px;
 }
 
@@ -310,7 +311,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(33, 125, 187, 0.8);
+    background: rgb(2 67 109 / 68%);
     z-index: 1;
 }
 
