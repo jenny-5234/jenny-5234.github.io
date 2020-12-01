@@ -98,10 +98,11 @@ header a {
 }
 
 header a:hover {
-    color: #217dbb;
+    color: #026dc2;
     text-decoration: none;
     background: #eee;
-    border-radius: 4px;
+    font-weight: 900;
+    border-radius: 10px;
 }
 
 header a:focus {
