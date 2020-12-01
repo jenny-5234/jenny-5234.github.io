@@ -93,7 +93,8 @@ header li {
 header a {
     display: block;
     color: #3498db;
-    padding: 10px;
+    font-weight: bold;
+    padding: 8px 20px 8px 20px;
 }
 
 header a:hover {
