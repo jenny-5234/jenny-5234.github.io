@@ -94,7 +94,7 @@ header a {
     display: block;
     color: #ffffff;
     font-weight: bold;
-    padding: 8px 20px 8px 20px;
+    padding: 8px 20px;
 }
 
 header a:hover {
@@ -312,7 +312,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgb(15 70 105 / 68%);
+    background: rgb(27 94 136 / 68%);
     z-index: 1;
 }
 
@@ -354,6 +354,10 @@ footer {
     100% {
         transform: scale(1, 1);
     }
+}
+
+.col-md-4 {
+    width: 20%;
 }
 
 #about {
