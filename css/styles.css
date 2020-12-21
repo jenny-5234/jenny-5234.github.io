@@ -540,7 +540,7 @@ footer {
 
 .project {
     position: relative;
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto 30px;
     overflow: hidden;
     background: #fff;
@@ -555,7 +555,7 @@ footer {
 }
 
 .project-infobox {
-    width: 600px;
+    width: 700px;
     height: 300px;
     margin-left: 300px;
     /* background: #fcf7e670; */
